@@ -3,8 +3,8 @@ import "./logo.css";
 function LogoNuKenzie() {
   return (
     <div className="div-logo">
-      <p className="color1">Nu</p>
-      <h2>Kenzie</h2>
+      <p className="color1">Finance</p>
+      <h2>Control</h2>
     </div>
   );
 }
